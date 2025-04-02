@@ -1,8 +1,9 @@
-# Ol·, Mundo!
+# Ol√°, Mundo!
  Primerio repositorio do curso de Git e GitHub.
 
- RepositÛrio criado durante uma aula ao vivo.
+ Reposit√≥rio criado durante uma aula ao vivo.
 
  Essa linha eu adicionei diretamente no site. Que impressionante!
-
- Revendo os vÌdeos em 01 de abril de 2025.
+ 
+Fazendo pequinas altera√ß√µes para recordar o que foi feito.
+ Revendo os v√≠deos em 01 de abril de 2025.
